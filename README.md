@@ -1,2 +1,2 @@
-# Recognizing HandWritten Digits
+# Recognizing Handwritten Digits
 ...
